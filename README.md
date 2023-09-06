@@ -9,6 +9,8 @@ Data science and Artificial intelligence, M.sc.
 
 - ETL and Data Integration
 
+- Data Analysis
+
 - Database and Data warehouse usage visualization
 
 - Data cataloging
