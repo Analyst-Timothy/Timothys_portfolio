@@ -5,12 +5,24 @@ Data science and Artificial intelligence, M.sc.
 ### Work Experience
 **Data and Digital Technology @ NHBC UK**
 
--Chatbot Design and Development
+- Chatbot Design and Development
 
--ETL and Data Integration
+- ETL and Data Integration
 
--Database and Data warehouse usage visualization
+- Database and Data warehouse usage visualization
 
--Data cataloging
+- Data cataloging
 
--Business report
+- Business report
+
+**Research Collaborator @ UKbio Bank Research on Irritable Bowel Syndrome (IBS)** 
+
+- Data Mining and wrangling
+
+- Statistical Modeling
+
+- Machine Learning and Deep learning model
+
+- Reporting
+
+- Visualization
